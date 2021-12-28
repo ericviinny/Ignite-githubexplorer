@@ -57,7 +57,7 @@ export function Repository() {
 
             <Description numberOfLines={2}>{
               //TODO - repository description
-              repository.description=''
+              repository.description
             }</Description>
           </TextGroup>
         </RepoInfo>
